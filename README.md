@@ -8,4 +8,6 @@
 
 📫 How to reach me: thanghongocql@gmail.com
 
-💬 Ask me about everything
+⚡ I like reading, playing soccer and coding
+
+💬 Can ask me anything
