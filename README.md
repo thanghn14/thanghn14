@@ -1,4 +1,7 @@
-### Hello👋, I'm Thang
+### Hello👋, I'm Thang 
+
+As technology enthusiast and a young developer from Vietnam
+
 
 📅 I used to work for Diligo Holdings, VTC NETVIET and Exsot JSC
 
