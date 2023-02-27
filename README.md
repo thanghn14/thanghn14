@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello👋, I'm Thang
 
 📅 I used to work for Diligo Holdings, VTC NETVIET and Exsot JSC
 
@@ -9,4 +9,3 @@
 📫 How to reach me: thanghongocql@gmail.com
 
 💬 Ask me about everything
-
