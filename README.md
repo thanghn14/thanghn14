@@ -11,6 +11,6 @@ As technology enthusiast and a young developer from Vietnam
 
 📫 How to reach me: thanghongocql@gmail.com
 
-⚡ I like reading, playing soccer and coding
+⚡ I like reading books, playing soccer and coding
 
 💬 Can ask me anything
