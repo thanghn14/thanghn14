@@ -15,4 +15,3 @@ As technology enthusiast and a young developer from Vietnam
 
 💬 Can ask me anything
 
-![alt]([[[http://~](https://drive.google.com/file/d/1uupnjuB3ekw8ckCQ64Up6rd23pXetbMH/view)](https://drive.google.com/file/d/1uupnjuB3ekw8ckCQ64Up6rd23pXetbMH/view?usp=sharing)](https://drive.google.com/file/d/1uupnjuB3ekw8ckCQ64Up6rd23pXetbMH/view))
