@@ -1,4 +1,4 @@
-### 👋Hello, I'm Thang 
+### 👋Hi, I'm Thang 
 
 As technology enthusiast and a young developer from Vietnam
 
