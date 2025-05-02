@@ -3,8 +3,6 @@
   As technology enthusiast and a young developer from Vietnam
 
 
-  * 📅 I used to work for Diligo Holdings and Exsoft JSC
-
   * 🌱 I’m currently working with Reactjs
 
   * 🔭 I’m currently looking for a new job 
