@@ -3,7 +3,7 @@
   As technology enthusiast and a young developer from Vietnam
 
 
-  * 🌱 I’m currently working with Reactjs
+  * 🌱 I’m currently working with Reactjs, Spring boot
 
   * 🔭 I’m currently looking for a new job 
 
