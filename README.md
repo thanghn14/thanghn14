@@ -1,15 +1,16 @@
-### 👋Hi, I'm Thang 
+<h1>👋Hi, I'm <a href="https://iamgnaht.vercel.app/">Thang</a></h1>
 
-  As technology Enthusiast and a young Developer from Vietnam
+  ## `As technology Enthusiast and a young Developer from Vietnam`
 
-  
-  * 🌱 I am working as a Fullstack developer
+## ⚡️Some information about me  
 
-  * 💻 The technologies I use: React, Remix, Nodejs (Express/Nestjs), Docker and a little Spring Boot
+  * 💻 I am working as a Fullstack developer
+
+  * 🚀 The technologies I use: React, Remix, Nodejs (Express/Nestjs), Docker and a little Spring Boot
 
   * 🍳 I’m currently looking for a new job
 
-  * ⚡ I like reading books, playing soccer and coding
+  * 🌱 I like reading books, playing soccer and coding
 
   * 💬 Can ask me anything
 
